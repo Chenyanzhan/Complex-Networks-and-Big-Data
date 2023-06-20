@@ -2,6 +2,8 @@
 
 This is a project aimed at completing the course on Complex Networks and Big Data. In this project, our main focus was on researching the various properties of academic collaboration networks and paper citation networks. The code primarily involves data preprocessing, analysis of network properties, and paper topic classification based on natural language processing.
 
+Please note that the original dataset is approximately over 500GB, and even after processing, the data still amounts to several tens of gigabytes. Therefore, it is not feasible to upload it to Github. Additionally, the trained model for BERT has not been uploaded as our team intends to submit it to a Chinese journal. If you are interested in the dataset, please feel free to private message me.
+
 You can get started with:
 
 ```commandline
